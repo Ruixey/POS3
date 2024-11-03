@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "nodejs_package_manager_path": "npm",
@@ -73,6 +74,7 @@
       <workItem from="1730635292081" duration="173000" />
       <workItem from="1730635895673" duration="56000" />
       <workItem from="1730636088849" duration="229000" />
+      <workItem from="1730636338727" duration="61000" />
     </task>
     <servers />
   </component>
