@@ -34,6 +34,7 @@ public class TicTacToe extends JFrame {
                     buttons[row][0].getName().equals(buttons[row][1].getName()) &&
                     buttons[row][1].getName().equals(buttons[row][2].getName())) {
                 return buttons[row][0].getName(); // Gibt den Gewinner zurück ("X" oder "O")
+                //TODO: das selbe halt mit anderem Index für 2. & 3. Reihe
             }
         }
 
@@ -44,6 +45,7 @@ public class TicTacToe extends JFrame {
                     buttons[1][col].getName().equals(buttons[2][col].getName())) {
                 return buttons[0][col].getName(); // Gibt den Gewinner zurück
             }
+            //TODO: Genau so wie oben, einfach index ändern
         }
 
         // Diagonalen überprüfen
